@@ -26,8 +26,10 @@ The data from this dictionary is imported onto a pandas frame that is used to me
 
 * Average BPM across a week 
 * Average BPM across a day 
-* Longest gap between two consecutive pulses
 
+## Planned functionality
+
+* Longest gap between two consecutive pulses
 
 ## Packages used
 
